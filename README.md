@@ -28,4 +28,6 @@ python FL-DTA.py
 ```
 
 ### How to run FL-DDI
-`python FL-DDI.py`
+```
+python FL-DDI.py
+```
