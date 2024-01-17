@@ -4,8 +4,8 @@ This repository is a implementation of "Multi-party Collaborative Drug Discovery
 
 ## 1. Datasets
 
-Davis and KIBA: https://github.com/hkmztrk/DeepDTA/tree/master/data
-DrugBank: https://github.com/kanz76/SSI-DDI/tree/master/data
+- Davis and KIBA: https://github.com/hkmztrk/DeepDTA/tree/master/data
+- DrugBank: https://github.com/kanz76/SSI-DDI/tree/master/data
 
 ## 2. Requirements
 
@@ -22,12 +22,10 @@ tqdm == 4.65.0
 ## 3. Usage
 
 ### How to run FL-DTA
-'''
+```
 python data_preprocessing_dta.py
 python FL-DTA.py
-'''
+```
 
 ### How to run FL-DDI
-'''
-python FL-DDI.py
-'''
+`python FL-DDI.py`
